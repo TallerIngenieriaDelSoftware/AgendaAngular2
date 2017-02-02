@@ -10,6 +10,7 @@ Para poder ejecutarlo correctamente es necesario:
 Clone this repo into new project folder (e.g., `my-proj`).
 * Para evitar problemas con el Cross Domain, tener habilitado en el navegador el Cross Domain. (En Chrome [CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi).
 * Tener instalado [GIT](https://git-scm.com/).
+
 ## Pasos para ejecutarlo.
 
 
