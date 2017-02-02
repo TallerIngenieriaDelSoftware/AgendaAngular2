@@ -9,3 +9,9 @@ e2e/**/*.js
 e2e/**/*.js.map
 _test-output
 _temp
+system-config.js*
+app/**/*.map
+bower_components
+aot/*
+dist/*
+yarn.lock
