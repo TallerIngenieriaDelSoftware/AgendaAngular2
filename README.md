@@ -13,7 +13,7 @@ Para poder ejecutarlo correctamente es necesario:
 
 
 ```shell
-https://github.com/TallerIngenieriaDelSoftware/AgendaAngular2.git
+git clone https://github.com/TallerIngenieriaDelSoftware/AgendaAngular2.git
 cd AgendaAngular2
 npm install
 npm start
